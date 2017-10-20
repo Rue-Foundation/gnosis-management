@@ -22,7 +22,7 @@
  },
  "gnosisdb": {
    "protocol": "https",
-   "host": "gnosisdb-beta.gnosis.pm",
+   "host": "gnosisdb-kovan.gnosis.pm",
    "port": 8000
  },
  "ethereum": {
