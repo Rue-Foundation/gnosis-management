@@ -14,17 +14,21 @@
     "0x1df62f291b2e969fb0849d99d9ce41e2f137006e": "Account 10"
  },
   "productionWhitelist": {
-
+    "0x5522621c176bce646ec69ff5eb0dd1d285cde728": "Frontier 1",
+    "0x2e2be33b14c89a5dd3aa98e95c58d5919328a8b1": "Frontier 2",
+    "0xca8a5d21eb5efd4c129bd59456d2dd611eb5a2ba": "Frontier 3",
+    "0xb64724f4c918f7d99aa3afa8153c42b44d09b1fe": "Frontier 4",
+    "0xf5c237130f8a4b1512515571dbf474ad8a05107f": "Frontier 5"
  },
  "gnosisdb": {
-   "protocol": "http",
-   "host": "localhost",
+   "protocol": "https",
+   "host": "gnosisdb-beta.gnosis.pm",
    "port": 8000
  },
  "ethereum": {
-   "protocol": "http",
-   "host": "localhost",
-   "port": 8545
+   "protocol": "https",
+   "host": "kovan.infura.io",
+   "port": 443
  },
  "fetchMarketTimeInterval": 15000
 }
